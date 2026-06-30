@@ -1,0 +1,12 @@
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\EmployeeAPI.exe
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\EmployeeAPI.dll
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\EmployeeAPI.deps.json
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\EmployeeAPI.runtimeconfig.json
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\EmployeeAPI.pdb
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EmployeeApp\EmployeeAPI\EmployeeAPI\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -8,11 +8,10 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Enable Swagger middleware
-if (app.Environment.IsDevelopment())
-{
+
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+
 
 app.MapControllers();
 app.Run();
